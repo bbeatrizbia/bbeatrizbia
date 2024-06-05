@@ -19,6 +19,6 @@
  
 <div> 
   <a href = "mailto:mariabeatrizs.fideles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/WhatsApp-verde?style=for-the-badge&logo=WhatsApp&logoColor=black&logoSize=auto"></a>
+  <a href = "https://wa.me/(55)81992652619"><img src="https://img.shields.io/badge/WhatsApp-verde?style=for-the-badge&logo=WhatsApp&logoColor=black&logoSize=auto"></a>
   <a href="https://www.linkedin.com/in/maria-beatriz-04a747269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
