@@ -6,7 +6,7 @@ Me chamo Maria Beatriz, tenho 20 anos e sou Pernambucana. Concluí o ensino méd
 
 Se quiser trocar uma ideia, colaborar em algum projeto ou só bater um papo sobre código, é só chamar! 🚀
 
---
+---
 
 ### 🤖 Linguagens e Tecnologias
 
