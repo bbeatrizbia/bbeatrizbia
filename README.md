@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Junior`**
 
 Me chamo Maria Beatriz, tenho 20 anos e sou Pernambucana. Concluí o ensino médio na ETE Jurandir Bezerra Lins, com o curso técnico em Desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonada por tecnologia e apesar de ainda não ter experiência profissional na área, venho construindo minha trajetória com projetos pessoais, TCCs, cursos e muita dedicação. Tenho orgulho do meu portfólio e do cuidado que coloco em cada detalhe, do visual à responsividade.
 
